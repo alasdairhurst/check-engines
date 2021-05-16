@@ -5,6 +5,10 @@
   "engines": {
     "node": ">=13.0.0"
   },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/alasdairhurst/check-engines"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
