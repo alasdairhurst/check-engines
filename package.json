@@ -12,7 +12,7 @@
     "check-engines": "bin/check-engines.js"
   },
   "author": "",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "mingine": "^1.0.2",
     "semver": "^7.3.5"
